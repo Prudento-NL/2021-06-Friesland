@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Deze site is speciaal aangemaakt om verslag te kunnen doen van de vakantie ...... toevoegen LAND MET LINK [LAND](LINK).  
+Deze site is speciaal aangemaakt om verslag te kunnen doen van de kampeervakantie in [Friesland](https://nl.wikipedia.org/wiki/Friesland).  
 
-Plaats: [PLAATS](LINK)  
-Hotel: [HOTEL](LINK)  
-Camping: [CAMPING](LINK)
+Plaats: [Dedgum](https://nl.wikipedia.org/wiki/Dedgum)  
+campingdedgum: [Naturistenterrein Buorkerij](http://www.campingdedgum.nl/)
 
 **Uitrusting:**
-- Tent: Karsten 300 of Carp 220
+- Tent: Karsten 300
 - Auto: Subaru XV
